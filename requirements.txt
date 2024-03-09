@@ -1,0 +1,6 @@
+requests
+python-dotenv
+kafka-python
+Flask
+flask_cors
+datetime
